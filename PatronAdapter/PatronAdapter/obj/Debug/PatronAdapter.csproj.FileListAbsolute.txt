@@ -1,0 +1,6 @@
+C:\Users\jeffri\Desktop\Patron Adapter y Composite\PatronAdapter\PatronAdapter\bin\Debug\PatronAdapter.exe.config
+C:\Users\jeffri\Desktop\Patron Adapter y Composite\PatronAdapter\PatronAdapter\bin\Debug\PatronAdapter.exe
+C:\Users\jeffri\Desktop\Patron Adapter y Composite\PatronAdapter\PatronAdapter\bin\Debug\PatronAdapter.pdb
+C:\Users\jeffri\Desktop\Patron Adapter y Composite\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.csprojResolveAssemblyReference.cache
+C:\Users\jeffri\Desktop\Patron Adapter y Composite\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.exe
+C:\Users\jeffri\Desktop\Patron Adapter y Composite\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.pdb
