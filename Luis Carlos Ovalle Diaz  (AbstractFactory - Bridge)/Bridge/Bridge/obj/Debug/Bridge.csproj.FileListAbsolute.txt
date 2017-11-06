@@ -1,0 +1,9 @@
+e:\biblioteca\documentos\visual studio 2013\Projects\Bridge\Bridge\bin\Debug\Bridge.exe.config
+e:\biblioteca\documentos\visual studio 2013\Projects\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+e:\biblioteca\documentos\visual studio 2013\Projects\Bridge\Bridge\bin\Debug\Bridge.exe
+e:\biblioteca\documentos\visual studio 2013\Projects\Bridge\Bridge\bin\Debug\Bridge.pdb
+e:\biblioteca\documentos\visual studio 2013\Projects\Bridge\Bridge\obj\Debug\Bridge.exe
+e:\biblioteca\documentos\visual studio 2013\Projects\Bridge\Bridge\obj\Debug\Bridge.pdb
+E:\Biblioteca\Descargas\Diseño Dirigido Por Pruebas\Luis Carlos Ovalle Diaz  (AbstractFactory - Bridge)\Bridge\Bridge\bin\Debug\Bridge.exe.config
+E:\Biblioteca\Descargas\Diseño Dirigido Por Pruebas\Luis Carlos Ovalle Diaz  (AbstractFactory - Bridge)\Bridge\Bridge\obj\Debug\Bridge.exe
+E:\Biblioteca\Descargas\Diseño Dirigido Por Pruebas\Luis Carlos Ovalle Diaz  (AbstractFactory - Bridge)\Bridge\Bridge\obj\Debug\Bridge.pdb
