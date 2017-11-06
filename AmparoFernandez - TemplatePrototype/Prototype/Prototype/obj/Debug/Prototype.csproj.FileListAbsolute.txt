@@ -1,0 +1,6 @@
+f:\users\usuario 1\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+f:\users\usuario 1\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe.config
+f:\users\usuario 1\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe
+f:\users\usuario 1\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.pdb
+f:\users\usuario 1\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.exe
+f:\users\usuario 1\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.pdb

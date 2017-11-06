@@ -1,0 +1,6 @@
+f:\users\usuario 1\documents\visual studio 2015\Projects\MetodoPlantilla\MetodoPlantilla\bin\Debug\MetodoPlantilla.exe.config
+f:\users\usuario 1\documents\visual studio 2015\Projects\MetodoPlantilla\MetodoPlantilla\bin\Debug\MetodoPlantilla.exe
+f:\users\usuario 1\documents\visual studio 2015\Projects\MetodoPlantilla\MetodoPlantilla\bin\Debug\MetodoPlantilla.pdb
+f:\users\usuario 1\documents\visual studio 2015\Projects\MetodoPlantilla\MetodoPlantilla\obj\Debug\MetodoPlantilla.csprojResolveAssemblyReference.cache
+f:\users\usuario 1\documents\visual studio 2015\Projects\MetodoPlantilla\MetodoPlantilla\obj\Debug\MetodoPlantilla.exe
+f:\users\usuario 1\documents\visual studio 2015\Projects\MetodoPlantilla\MetodoPlantilla\obj\Debug\MetodoPlantilla.pdb
