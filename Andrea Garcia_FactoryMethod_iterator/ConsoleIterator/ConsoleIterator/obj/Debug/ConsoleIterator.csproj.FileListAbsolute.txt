@@ -1,0 +1,5 @@
+E:\Documentos\Visual Studio 2013\Projects\ConsoleIterator\ConsoleIterator\bin\Debug\ConsoleIterator.exe.config
+E:\Documentos\Visual Studio 2013\Projects\ConsoleIterator\ConsoleIterator\bin\Debug\ConsoleIterator.exe
+E:\Documentos\Visual Studio 2013\Projects\ConsoleIterator\ConsoleIterator\bin\Debug\ConsoleIterator.pdb
+E:\Documentos\Visual Studio 2013\Projects\ConsoleIterator\ConsoleIterator\obj\Debug\ConsoleIterator.exe
+E:\Documentos\Visual Studio 2013\Projects\ConsoleIterator\ConsoleIterator\obj\Debug\ConsoleIterator.pdb

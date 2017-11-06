@@ -1,0 +1,5 @@
+E:\Documentos\Visual Studio 2013\Projects\ConsoleFactoryMethod\ConsoleFactoryMethod\bin\Debug\ConsoleFactoryMethod.exe.config
+E:\Documentos\Visual Studio 2013\Projects\ConsoleFactoryMethod\ConsoleFactoryMethod\bin\Debug\ConsoleFactoryMethod.exe
+E:\Documentos\Visual Studio 2013\Projects\ConsoleFactoryMethod\ConsoleFactoryMethod\bin\Debug\ConsoleFactoryMethod.pdb
+E:\Documentos\Visual Studio 2013\Projects\ConsoleFactoryMethod\ConsoleFactoryMethod\obj\Debug\ConsoleFactoryMethod.exe
+E:\Documentos\Visual Studio 2013\Projects\ConsoleFactoryMethod\ConsoleFactoryMethod\obj\Debug\ConsoleFactoryMethod.pdb
